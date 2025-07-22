@@ -1,4 +1,3 @@
-[![MasterHead(https://camo.githubusercontent.com/55aff4ecfb3d7bdd64b51afd1346c982a7bcb8ad0bb2977c32f7f2fb55cf31d3/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)
 <h1 align="center">Hi 👋, I'm Thisurika Hasagith</h1>
 <h3 align="center">🎓 I'm an undergraduate student at SLIIT and I’m passionate about software engineering, full-stack web development, and solving real-world problems with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
