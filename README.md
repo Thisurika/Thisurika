@@ -1,3 +1,5 @@
+<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWF5NmNicnQzcDlmcGdkbjdjOXc0cjA3NjFwN2N2MXU5dXJwbW51bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" />
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Thisurika Hasajith
 </h1>
@@ -64,8 +66,6 @@
 </p>
 
 ---
-
-
 
 ## 🚀 Fun Fact
 
