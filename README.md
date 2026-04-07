@@ -17,7 +17,7 @@
 
 🌱 I’m currently studying at **SLIIT**  
 🚀 Passionate about **Web Development, AI & ML Systems**  
-📍 From **Sri Lanka 🇱🇰**
+📍 From **Sri Lanka**
 
 ---
 
