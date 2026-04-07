@@ -16,7 +16,7 @@
 ---
 
 🌱 I’m currently studying at **SLIIT**  
-🚀 Passionate about **Web Development, AI & ML Systems**  
+🚀 Passionate about **Web Development, AI & ML Systems, Data Engineering**  
 📍 From **Sri Lanka**
 
 ---
@@ -25,7 +25,7 @@
 - 🎓 Data Science Undergraduate
 - 💻 Full Stack Developer (React | Spring Boot | Node.js)
 - 🤖 AI/ML Enthusiast
-- 💬 Ask me about **Java, OOP, Web Development**
+- 💬 Ask me about **Java, OOP, SQL, Web Development**
 - 📫 Email: **donthisurika@gmail.com**
 
 ---
