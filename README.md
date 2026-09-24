@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.gif.gif" width="100%" alt="Thisurika Hasajith GitHub Banner" />
+</p>
+
 <img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWF5NmNicnQzcDlmcGdkbjdjOXc0cjA3NjFwN2N2MXU5dXJwbW51bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" />
 
 <h1 align="center">
