@@ -133,6 +133,28 @@ thisurika@github:~/profile
 
 ---
 
+## 📊 Data-Driven Insights
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thisurika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisurika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Thisurika&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+---
+
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
