@@ -58,11 +58,10 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thisurika/Thisurika/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -74,6 +73,7 @@
 </p>
 
 ---
+
 
 ## 🚀 Fun Fact
 
