@@ -69,7 +69,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisurika&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisurika&theme=github-dark&hide_border=true" alt="Thisurika's Contribution Graph" />
 </p>
 
 ---
