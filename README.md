@@ -162,3 +162,7 @@ thisurika@github:~/profile
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE9,100:00C9FF&height=120&section=footer&text=Building%20intelligent%20systems,%20one%20idea%20at%20a%20time.&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" />
+</p>
