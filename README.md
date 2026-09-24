@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -130,6 +130,14 @@ thisurika@github:~/profile
   🤖 AI Agents &nbsp; • &nbsp;
   📊 Machine Learning
 </p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
+</p
 
 ---
 
