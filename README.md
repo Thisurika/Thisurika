@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.gif.gif" width="100%" alt="Thisurika Hasajith GitHub Banner" />
+  <img src="./assets/github-banner.gif.gif" width="100%" alt="Thisurika Hasajith GitHub Banner" />
 </p>
 
 <img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWF5NmNicnQzcDlmcGdkbjdjOXc0cjA3NjFwN2N2MXU5dXJwbW51bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" />
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senalanuraheesara&label=Visitors&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/senalanuraheesara?label=Followers&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Thisurika&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Thisurika?label=Followers&style=flat&color=blue" />
 </p>
 
 ---
@@ -28,6 +28,7 @@
 ---
 
 ## 🚀 About Me
+
 - 🎓 Data Science Undergraduate
 - 💻 Full Stack Developer (React | Spring Boot | Node.js)
 - 🤖 AI/ML Enthusiast
@@ -39,16 +40,19 @@
 ## 🛠️ My Skill Set
 
 ### 💻 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,ts" />
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,mysql,mongodb" />
 </p>
 
 ### 🧰 Tools & DevOps
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
@@ -58,7 +62,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Thisurika/Thisurika/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
