@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Web+Development+Enthusiast;Data+Science+Undergraduate;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Undergraduate;Full+Stack+Developer;Building+Intelligent+Systems;React+%7C+Python+%7C+Node.js" />
 </p>
 
 <p align="center">
@@ -21,23 +21,79 @@
 
 ---
 
-🌱 I’m currently studying at **SLIIT**  
-🚀 Passionate about **Web Development, AI & ML Systems, Data Engineering**  
-📍 From **Sri Lanka**
-
----
-
 ## 🚀 About Me
 
-- 🎓 Data Science Undergraduate
-- 💻 Full Stack Developer (React | Spring Boot | Node.js)
-- 🤖 AI/ML Enthusiast
-- 💬 Ask me about **Java, OOP, SQL, Web Development**
-- 📫 Email: **donthisurika@gmail.com**
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm **Thisurika Hasajith** — a **Data Science undergraduate at SLIIT** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**.
+
+I enjoy turning **data and ideas into practical intelligent applications**, while continuously exploring new technologies in AI and software development.
+
+- 🤖 **Building:** AI/ML projects, RAG applications & intelligent systems
+- 🧠 **Learning:** LLMs, RAG, Vector Databases & Advanced Machine Learning
+- 💻 **Development:** React, Node.js, Spring Boot & Python
+- 📊 **Interested in:** Data Science, AI/ML & Data Engineering
+- 💬 **Ask me about:** Python, Machine Learning, Java, SQL & Web Development
+- 🎯 **Goal:** Build intelligent systems that solve real-world problems
+- 📫 **Email:** donthisurika@gmail.com
+
+</td>
+
+<td width="42%" valign="top">
+
+```text
+thisurika@github:~/profile
+
+➜ whoami
+  Thisurika Hasajith
+  Data Science Undergraduate
+
+➜ cat interests.txt
+  AI / Machine Learning
+  Data Science
+  Full Stack Development
+  Data Engineering
+
+➜ tech --stack
+  Python
+  TensorFlow
+  React
+  Node.js
+  Java
+  MongoDB
+
+➜ currently-learning
+  LLMs
+  RAG
+  Vector Databases
+  AI Systems
+
+➜ echo $MOTTO
+  Learn. Build.
+  Experiment. Improve.
+
+➜ █
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ My Skill Set
+
+### 🤖 AI / ML & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p align="center">
+  Machine Learning • Deep Learning • Scikit-learn • Pandas • NumPy • OpenCV
+</p>
 
 ### 💻 Frontend
 
@@ -48,7 +104,13 @@
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🧰 Tools & DevOps
@@ -58,10 +120,15 @@
 </p>
 
 ---
-## 🐍 Contribution Snake Animation
+
+## 📚 Currently Exploring
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senalanuraheesara/senalanuraheesara/output/github-contribution-grid-snake.svg" />
+  🧠 Large Language Models &nbsp; • &nbsp;
+  📚 RAG &nbsp; • &nbsp;
+  🔎 Vector Databases &nbsp; • &nbsp;
+  🤖 AI Agents &nbsp; • &nbsp;
+  📊 Machine Learning
 </p>
 
 ---
@@ -69,12 +136,21 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisurika&theme=github-dark&hide_border=true" alt="Thisurika's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisurika&theme=react-dark&hide_border=true" alt="Thisurika's Contribution Graph" />
 </p>
 
 ---
 
-
 ## 🚀 Fun Fact
 
-> 😄 I’m a funny person who enjoys coding and making people smile while building cool projects!
+> 😄 I enjoy coding, experimenting with AI, building new projects, and somehow still finding time to make my friends laugh.
+
+---
+
+<div align="center">
+
+### 💡 Learn • Build • Experiment • Improve
+
+⭐ Thanks for visiting my GitHub profile!
+
+</div>
