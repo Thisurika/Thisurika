@@ -2,13 +2,13 @@
   <img src="./assets/github-banner.gif.gif" width="100%" alt="Thisurika Hasajith GitHub Banner" />
 </p>
 
-<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWF5NmNicnQzcDlmcGdkbjdjOXc0cjA3NjFwN2N2MXU5dXJwbW51bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gif" />
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Thisurika Hasajith
 </h1>
 
-<h3 align="center">💻 Data Science Undergraduate | Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">
+  💻 Data Science Undergraduate | Full Stack Developer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Web+Development+Enthusiast;Data+Science+Undergraduate;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js" />
