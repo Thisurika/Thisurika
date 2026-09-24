@@ -135,21 +135,14 @@ thisurika@github:~/profile
 
 ## 📊 Data-Driven Insights
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thisurika&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thisurika&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thisurika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisurika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Thisurika&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Thisurika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
